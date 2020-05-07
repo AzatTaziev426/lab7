@@ -60,4 +60,9 @@ y(xn+1) = y'(xn) + h![Image alt](https://github.com/AzatTaziev426/lab7/blob/mast
 
 ![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/proizvodn2.png)
 
+Ряд Тейлора, в него передаем значения производных и считаем сам ряд с шагом h = 0.01 и находим значения y(x),
+а также здесь находится производная от ряда Тейлора для нахождения y'(x) ее так же считаем с шагом h = 0.01 и находим значения y'(x);
+
+[Image alt](https://github.com/AzatTaziev426/lab7/blob/master/telor1.png)
+
 
