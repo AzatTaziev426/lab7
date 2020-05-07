@@ -28,6 +28,9 @@
 
 y(xn+1) = y'(xn) + h![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/triangle.png)(xn, yn, h)
 
+Берем конечный отрезок ряда и заменяем в нем производные в силу данного нам диффиренциального уравнения
+
+
 
 
 ![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/telor.png)
