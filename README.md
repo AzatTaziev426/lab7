@@ -1,4 +1,4 @@
-Лабораторная работа № 7. .
+Лабораторная работа № 7. 
 
 Выполнил студент группы 426
 
@@ -30,10 +30,20 @@ y(xn+1) = y'(xn) + h![Image alt](https://github.com/AzatTaziev426/lab7/blob/mast
 
 Берем конечный отрезок ряда и заменяем в нем производные в силу данного нам диффиренциального уравнения
 
+![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/y'(x).png)
 
+
+![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/y''(x).png)
+
+
+![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/y'''(x).png)
+
+Далее подставляем данные производные в ряд Тейлора 
 
 
 ![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/telor.png)
+
+Теоретическая часть
 
 
 
