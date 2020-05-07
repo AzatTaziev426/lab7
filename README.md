@@ -65,6 +65,18 @@ y(xn+1) = y'(xn) + h![Image alt](https://github.com/AzatTaziev426/lab7/blob/mast
 
 ![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/telor1.png)
 
-В данном участке кода написан вывод в файл для построения графиков y(x), y'(x) и а так же фазовых траекторий с помощью Python
+В данном участке кода написан вывод в файл для построения графиков y(x), y'(x), а так же фазовых траекторий с помощью Python
 
 ![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/vivod.png)
+
+График решений y(x)
+
+![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/Figure_1.png)
+
+График решений y'(x)
+
+![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/Figure_2.png)
+
+Фазовые траектории
+
+![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/Figure_3.png)
