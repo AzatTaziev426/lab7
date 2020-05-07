@@ -40,11 +40,24 @@ y(xn+1) = y'(xn) + h![Image alt](https://github.com/AzatTaziev426/lab7/blob/mast
 
 Далее подставляем данные производные в ряд Тейлора 
 
-
 ![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/telor.png)
 
 Практическая часть
 
+Функция x2 возвращает значение второй производной.
 
+Функция x3 возвращает значение третьей производной.
+
+Функция x4 возвращает значение четвертой производной.
+
+![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/proizvodn.png)
+
+Функция xx2 возвращает значение второй производной от ряда Тейлора.
+
+Функция xx3 возвращает значение третьей производной от ряда Тейлора. 
+
+Функция xx4 возвращает значение четвертой производной от ряда Тейлора.
+
+![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/proizvodn2.png)
 
 
