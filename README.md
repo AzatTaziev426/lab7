@@ -43,7 +43,8 @@ y(xn+1) = y'(xn) + h![Image alt](https://github.com/AzatTaziev426/lab7/blob/mast
 
 ![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/telor.png)
 
-Теоретическая часть
+Практическая часть
+
 
 
 
