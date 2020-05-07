@@ -24,4 +24,13 @@
 
 Формула Тейлора 4-го порядка
 
+Простейшим способом построения приближенного решени в точке xn+1 сетки wN является способ, основанный на разложении решения в ряд Тейлора в предыдущей точке сетки xn по степеням шага h:
+
+y(xn+1) = y'(xn) + h![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/triangle.png)(xn, yn, h)
+
+
+
 ![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/telor.png)
+
+
+
