@@ -50,7 +50,7 @@ y(xn+1) = y'(xn) + h![Image alt](https://github.com/AzatTaziev426/lab7/blob/mast
 
 Функция x4 возвращает значение четвертой производной.
 
-![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/proizvodn.png)
+![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/proizv.png)
 
 Функция xx2 возвращает значение второй производной от ряда Тейлора.
 
@@ -58,7 +58,7 @@ y(xn+1) = y'(xn) + h![Image alt](https://github.com/AzatTaziev426/lab7/blob/mast
 
 Функция xx4 возвращает значение четвертой производной от ряда Тейлора.
 
-![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/proizvodn2.png)
+![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/proizv1.png)
 
 Ряд Тейлора, в него передаем значения производных и считаем сам ряд с шагом h = 0.01 и находим значения y(x),
 а также здесь находится производная от ряда Тейлора для нахождения y'(x) ее так же считаем с шагом h = 0.01 и находим значения y'(x);
@@ -68,6 +68,10 @@ y(xn+1) = y'(xn) + h![Image alt](https://github.com/AzatTaziev426/lab7/blob/mast
 В данном участке кода написан вывод в файл для построения графиков y(x), y'(x), а так же фазовых траекторий с помощью Python
 
 ![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/vivod.png)
+
+В файле lab7.py осущетсвляется построение графиков
+
+![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/Figure_1.png)
 
 График решений y(x)
 
