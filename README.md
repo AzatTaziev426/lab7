@@ -71,7 +71,7 @@ y(xn+1) = y'(xn) + h![Image alt](https://github.com/AzatTaziev426/lab7/blob/mast
 
 В файле lab7.py осущетсвляется построение графиков
 
-![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/Figure_1.png)
+![Image alt](https://github.com/AzatTaziev426/lab7/blob/master/vivod2.png)
 
 График решений y(x)
 
